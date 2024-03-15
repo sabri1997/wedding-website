@@ -1,4 +1,12 @@
 /*  green color style    */
+.event-section,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
 .header .nav ul li a:hover{
-    color: #b1e25c;
+    color: #6a7e46;
+}
+.couple-section .couple img{
+    border-color: #6a7e46;
 }
